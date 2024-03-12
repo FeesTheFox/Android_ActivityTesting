@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ActivityTesting</string>
+    <string name="firstActivity">Activity 1</string>
+    <string name="GoTosecondActivity">Go to Activity 2</string>
+    <string name="secondActivity">Activity 2</string>
+    <string name="GoTofirstActivity">Go to Activity 1</string>
+</resources>
